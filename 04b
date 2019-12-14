@@ -1,3 +1,4 @@
+import math
 from random import randint
 randoms = [randint(0, 100) for p in range(0, 50)]
 randoms_copy = randoms
